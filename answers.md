@@ -1,4 +1,5 @@
-LEVEL 10 COMPLETE: I submitted my proof.
+LEVEL 1 Complete: I can read instructions
+
 
 
 

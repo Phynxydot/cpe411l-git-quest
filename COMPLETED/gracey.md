@@ -15,10 +15,13 @@ Paste the output of this command (run inside your repo):
 git log --oneline -5
 Administrator@DESKTOP-I0292P0 MINGW64 ~/cpe411l-git-quest (student-grace)
 $ git log --oneline -5
-9eb3ee2 (HEAD -> student-grace, origin/student-grace) Final: completed Git Quest
+Administrator@DESKTOP-I0292P0 MINGW64 ~/cpe411l-git-quest (student-grace)
+$ git log --oneline -5
+c04d1ce (HEAD -> student-grace, origin/student-grace) FINAL: completed Git Quest
+9eb3ee2 Final: completed Git Quest
 a01cbf2 FINAL: completed Git Quest
 3bf4afe (origin/main, origin/HEAD, main) FINAL: completed Git Quest
 e174fef Merge branch 'student-grace'
-4cc54c9 Update sign.txt
+
 
 LEVEL 10 COMPLETE: I submitted my proof
