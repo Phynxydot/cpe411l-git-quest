@@ -18,18 +18,13 @@
 ## Evidence
 Paste the output of this command (run inside your repo):
 ```bash
-git log --oneline -5
-
 Administrator@DESKTOP-I0292P0 MINGW64 ~/cpe411l-git-quest (student-grace)
 $ git log --oneline -5
-Administrator@DESKTOP-I0292P0 MINGW64 ~/cpe411l-git-quest (student-grace)
-$ git log --oneline -5
-c04d1ce (HEAD -> student-grace, origin/student-grace) FINAL: completed Git Quest
-9eb3ee2 Final: completed Git Quest
-a01cbf2 FINAL: completed Git Quest
-3bf4afe (origin/main, origin/HEAD, main) FINAL: completed Git Quest
-e174fef Merge branch 'student-grace'
-
+3dd534b (HEAD -> student-grace, origin/student-grace) FINAL: completed Git Quest
+373e609 Level 9: Check the conflict
+5138a9a Level 8: opened PR in my fork
+484185a Level 7: Check what changed
+8e056fc Level 6: found chest code
 
 =======
 
