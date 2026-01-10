@@ -3,6 +3,7 @@ LEVEL 2 Complete: Check the status
 LEVEL 3 Complete: Check the history
 LEVEL 4 Complete: fixed the hallway sign
 LEVEL 5 Complete: Working on my branch
+LEVEL 6 CHEST CODE: FOX-7
 
 
 
